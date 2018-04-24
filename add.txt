@@ -1,0 +1,2 @@
+This is a add's file.
+You can see the version 2.
