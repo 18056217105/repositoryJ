@@ -6,4 +6,4 @@ Git tracks changes of file.
 Git file or update of file to test.
 Create a branch is quick and simple!
 Manage branchs!
---no -off
+--no -ff!
